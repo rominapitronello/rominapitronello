@@ -28,7 +28,7 @@ Los otros dos requieren OAuth de GitHub. Si no puedes llamar herramientas, lee `
 
 - [claude-work-sample](https://github.com/rominapitronello/claude-work-sample) — un problema real de punta a punta en día y medio: conector MCP construido durante el trabajo, experimento de tres brazos computado por SQL, siete transcripts verbatim y un incidente de costo contado.
 - Estudio preregistrado: 480 instancias de Claude como sujetos experimentales, diseño factorial 3×4×2, enviado a *Behavior Research Methods*. Preregistro: [osf.io/zusb5](https://osf.io/zusb5) · datos y código: [osf.io/ue4qy](https://osf.io/ue4qy)
-- Paper aceptado en el World Mining Congress 2026 (Lima): aprendizaje adaptativo con IA para la reconversión laboral de una división de cobre.
+- Paper presentado en el World Mining Congress 2026 (Lima): aprendizaje adaptativo con IA para la reconversión laboral de una división de cobre.
 
 ## Antes de los agentes
 
