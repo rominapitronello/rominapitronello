@@ -1,6 +1,6 @@
 # Romina Pitronello
 
-*Actualizado el 22 de noviembre de 2026.*
+*Actualizado el 23 de noviembre de 2026.*
 
 Psicometrista. Analizo procesos, decido qué se automatiza y lo construyo con agentes de IA. Las specs y los prompts son míos; el código lo escriben instancias de Claude y yo verifico contra el código.
 
