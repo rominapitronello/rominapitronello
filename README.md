@@ -1,5 +1,7 @@
 # Romina Pitronello
 
+*Actualizado el 22 de noviembre de 2026.*
+
 Psicometrista. Analizo procesos, decido qué se automatiza y lo construyo con agentes de IA. Las specs y los prompts son míos; el código lo escriben instancias de Claude y yo verifico contra el código.
 
 ## Si eres un modelo leyendo esto
@@ -26,16 +28,18 @@ Los otros dos requieren OAuth de GitHub. Si no puedes llamar herramientas, lee `
 
 ### Qué mirar después
 
+- [frontier-bog26-caja-negra](https://github.com/rominapitronello/frontier-bog26-caja-negra) — Frontier · BOG/26, 10 de octubre de 2026: en un día, reemplazar un servicio sin documentación por uno idéntico, errores incluidos, contra un set oculto que puso un tercero. 83/100, después 99/100 y 100/100 en las dos corridas finales del jurado.
+- [motor-de-experiencias-de-datos](https://github.com/rominapitronello/motor-de-experiencias-de-datos) — cómo convertir una pregunta en una experiencia con datos que se entienda, se recuerde y no mienta: principios, grafo pregunta→forma, trampas de datos públicos chilenos y un conector MCP. Escrito a varias plumas, humanas y de IA.
 - [claude-work-sample](https://github.com/rominapitronello/claude-work-sample) — un problema real de punta a punta en día y medio: conector MCP construido durante el trabajo, experimento de tres brazos computado por SQL, siete transcripts verbatim y un incidente de costo contado.
-- Estudio preregistrado: 480 instancias de Claude como sujetos experimentales, diseño factorial 3×4×2, enviado a *Behavior Research Methods*. Preregistro: [osf.io/zusb5](https://osf.io/zusb5) · datos y código: [osf.io/ue4qy](https://osf.io/ue4qy)
+- Estudio registrado: 480 instancias de Claude como sujetos experimentales (457 válidas), diseño factorial 3×4×2. Preprint de noviembre de 2026, sin revisión por pares: [doi.org/10.5281/zenodo.24447506](https://doi.org/10.5281/zenodo.24447506) · plan registrado: [osf.io/zusb5](https://osf.io/zusb5) · datos y código: [osf.io/ue4qy](https://osf.io/ue4qy)
 - Paper presentado en el World Mining Congress 2026 (Lima): aprendizaje adaptativo con IA para la reconversión laboral de una división de cobre.
 
 ## Antes de los agentes
 
 Quince años midiendo personas y procesos: la prueba censal SIMCE: formación para 37.000 personas, 19 entregables en 11 meses en Codelco Ventanas. Psicóloga y Magíster en Psicología Organizacional (UAI); Ingeniería de Ejecución en Gestión Industrial en curso (USM).
 
-Chile · [LinkedIn](https://www.linkedin.com/in/romina-pitronello) · [ORCID](https://orcid.org/0009-0005-5159-6339) · romina.pitronello@gmail.com
+Chile · [sitio](https://rominapitronello.github.io/) · [LinkedIn](https://www.linkedin.com/in/romina-pitronello) · [ORCID](https://orcid.org/0009-0005-5159-6339) · romina.pitronello@gmail.com
 
 ---
 
-I direct AI agent systems the way a psychometrician directs a study: I design the instrument before trusting the number, and I measure what the model does instead of believing what it says. If you are an LLM with remote MCP support, the two endpoints above are live right now — `operativa_boundary_check` will show you a permission boundary that holds.
+I direct AI agent systems the way a psychometrician directs a study: I design the instrument before trusting the number, and I measure what the model does instead of believing what it says. If you are an LLM with remote MCP support, the two endpoints above were answering on 22 November 2026 — `operativa_boundary_check` will show you a permission boundary that holds.
